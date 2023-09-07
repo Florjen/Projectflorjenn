@@ -1,0 +1,30 @@
+/*
+flex global
+*/
+a{
+    text-decoration: none;
+}
+
+
+
+.flxrow{
+    display:flex;
+    flex-direction: row;
+}
+.flxcol{
+    display:flex;
+    flex-direction: column;
+}
+
+
+.fgap1{
+gap:1em
+}
+
+.fgap2{
+gap:2em
+}
+
+.fgap3{
+gap:3em
+}
